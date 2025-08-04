@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 💬 I'm currently looking for work as a Software Engineer
 ## 📫 How to reach me: alexjirocoll@gmail.com
-## ⚡Please visit my portfolio at [https://github.com/alexajb2](https://alexajb2.github.io/)
+## ⚡Please visit my portfolio at [https://alexajb2.github.io](https://alexajb2.github.io/)
 
 <!--
 **alexajb2/alexajb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
